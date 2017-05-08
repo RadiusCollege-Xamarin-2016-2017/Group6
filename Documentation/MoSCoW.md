@@ -7,8 +7,6 @@ Vizualizeren van Databinding.
 Workshop die data binding omschrijft.
 Workshop Code Snippets toevoegen.
 Workshop gebruikte bestanden aanleveren.
-Robots in elkaar slaan.
-Negers in elkaar slaan.
 API data laten zien.
 API data ophalen.
 API data verwerwerken.
