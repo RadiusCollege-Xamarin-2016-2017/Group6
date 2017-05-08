@@ -14,6 +14,7 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Xamarin-DataBinding\Xamarin_DataBinding\Xamarin_DataBinding.projitems*{049c46d0-5e93-4027-abad-27b53228233c}*SharedItemsImports = 13
+		Xamarin-DataBinding\Xamarin_DataBinding\Xamarin_DataBinding.projitems*{69990dff-cb46-4668-80c7-c21fd38af2af}*SharedItemsImports = 4
 		Xamarin-DataBinding\Xamarin_DataBinding\Xamarin_DataBinding.projitems*{86d07b2d-73ff-4538-9668-97e627fb39f2}*SharedItemsImports = 4
 		Xamarin-DataBinding\Xamarin_DataBinding\Xamarin_DataBinding.projitems*{9ff9696f-d368-4921-aa97-67910a36c367}*SharedItemsImports = 4
 	EndGlobalSection
