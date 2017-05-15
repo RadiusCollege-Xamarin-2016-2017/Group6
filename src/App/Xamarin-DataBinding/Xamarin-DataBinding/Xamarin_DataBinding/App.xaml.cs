@@ -11,7 +11,7 @@ namespace Xamarin_DataBinding
 	{
 		public App ()
 		{
-			InitializeComponent();
+            InitializeComponent();
 
 			MainPage = new Xamarin_DataBinding.MainPage();
 		}
