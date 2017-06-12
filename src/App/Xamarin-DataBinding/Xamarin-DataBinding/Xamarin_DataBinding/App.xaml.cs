@@ -9,9 +9,10 @@ namespace Xamarin_DataBinding
 {
 	public partial class App : Application
 	{
-		public App ()
+        public App ()
 		{
 			InitializeComponent();
+            BindingContext = new Databinding();
 
 			MainPage = new Xamarin_DataBinding.MainPage();
 		}

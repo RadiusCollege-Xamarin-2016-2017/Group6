@@ -3,9 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Xamarin_DataBinding"
              x:Class="Xamarin_DataBinding.MainPage">
+    <ContentView>
+        <Label Text="Voorbeeld van een TwoWay Binding" />
+        <Entry Text="{Binding HelloWorld, Mode=TwoWay}" />
+        <StackLayout>
+            <Label Text="Je input was:" />
+            <Label Text="{Binding HelloWorld}"/>
+        </StackLayout>
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+        <Label Text="Voorbeeld van een OneWay Binding" />
+        <Entry Text="{Binding HelloWorld, Mode=OneWay}" />
+    </ContentView>
 </ContentPage>
